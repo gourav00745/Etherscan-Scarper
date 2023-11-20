@@ -3,4 +3,5 @@
 
  #Download the code and give the link of the transaction page in variable url1. The k variables denotes the number of pages to extract data from, change according to your need.
  
-![es](https://github.com/gourav00745/Etherscan-Scarper/assets/116454036/f0d28a0a-1068-477d-bc9f-d8992b7d0439)
+
+![download (1)](https://github.com/gourav00745/Etherscan-Scarper/assets/116454036/11fd7fc9-cc6d-45aa-b687-772843a824f5)
